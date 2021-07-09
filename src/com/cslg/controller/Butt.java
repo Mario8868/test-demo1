@@ -10,6 +10,6 @@ public class Butt {
     @RequestMapping(value = "run.do")
     @ResponseBody
     public void run () {
-        System.out.println("succes33w333qqqqq");
+        System.out.println("成功连接咯");
     }
 }
